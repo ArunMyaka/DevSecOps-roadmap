@@ -1,13 +1,17 @@
-# DevSecOps Lab
+# DevSecOps Roadmap
 
-Documenting everything I practice.
-This repository documents my hands-on Linux and DevSecOps learning.
+This repository documents my hands-on journey into Linux, Git, and DevSecOps.
 
-Focus:
-- Linux fundamentals
-- Users, permissions, processes
-- Learning by breaking and fixing
-- more.
+What this repo contains:
+- Linux fundamentals (files, permissions, users, processes)
+- Git fundamentals (commits, branches, merges)
+- Learning by doing: breaking things and fixing them
 
-No tutorials copied.
-Everything tested locally.
+Approach:
+- No copy-paste tutorials
+- Everything tested locally
+- Notes written in my own words
+
+Goal:
+- Build strong system fundamentals
+- Prepare for DevSecOps roles with real understanding
